@@ -42,3 +42,9 @@ Additionally, I developed a slicer to filter data according on the state of the 
 
 ![Road Accident Analysis](https://github.com/archana2727/Road-Accident-Analysis/assets/134779663/d3e21edd-1986-4faa-a18a-8fff05516572)
 
+![Screenshot (46)](https://github.com/archana2727/Road-Accident-Analysis/assets/134779663/7bd2b79f-c7e2-48df-aa67-dc3b0635ea84)
+
+![Screenshot (47)](https://github.com/archana2727/Road-Accident-Analysis/assets/134779663/40b1ac5c-eccf-4659-bc48-bfdc9dc95f03)
+
+![Screenshot (48)](https://github.com/archana2727/Road-Accident-Analysis/assets/134779663/d2f39036-c3af-4e15-bff2-810e5102937e)
+
