@@ -39,3 +39,6 @@ Overall, the outcomes from your Power BI report can help stakeholders gain a dee
 Examples of insights include comprehending the distribution of casualties by vehicle type, identifying places with a high frequency of accidents, and determining the meteorological conditions most frequently related with accidents.
 In order to assist time-based analysis, I also constructed a date calendar table and metrics like total CY casualties, total PY casualties, and total PY accidents, fatal, serious, and slight. 
 Additionally, I developed a slicer to filter data according on the state of the weather and the road. I made a group depending on the kind of vehicle and the weather, and I computed measures for year-over-year (YOY) accidents and fatalities.
+
+![Road Accident Analysis](https://github.com/archana2727/Road-Accident-Analysis/assets/134779663/d3e21edd-1986-4faa-a18a-8fff05516572)
+
